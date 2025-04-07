@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73858e07-5935-47bf-8954-a7a2bc668589" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/frontend/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2tRYwFlY4Zr9saxmZfrdehSJ7kE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.form.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/eugenerodin/Documents/WebStorm Projects/02. Frontend_Developer_Course/Unit8_moreAdvancedFrontend/21. Quiz 4_backend Kopie",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/static/images" />
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73858e07-5935-47bf-8954-a7a2bc668589" name="Changes" comment="" />
+      <created>1740316591355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740316591355</updated>
+      <workItem from="1740316592782" duration="8115000" />
+      <workItem from="1740423783314" duration="492000" />
+      <workItem from="1740765281092" duration="5714000" />
+      <workItem from="1741111041571" duration="14000" />
+      <workItem from="1741196830430" duration="4575000" />
+      <workItem from="1741544331778" duration="7797000" />
+      <workItem from="1742051320269" duration="664000" />
+      <workItem from="1742237214893" duration="5154000" />
+      <workItem from="1742407579684" duration="6682000" />
+      <workItem from="1742584031766" duration="4093000" />
+      <workItem from="1742635088026" duration="359000" />
+      <workItem from="1742663550767" duration="4299000" />
+      <workItem from="1742667886966" duration="17000" />
+      <workItem from="1742924510041" duration="1160000" />
+      <workItem from="1742929554924" duration="68000" />
+      <workItem from="1743013350395" duration="10833000" />
+      <workItem from="1743024895067" duration="3000" />
+      <workItem from="1743027439842" duration="529000" />
+      <workItem from="1743105728175" duration="3225000" />
+      <workItem from="1743109836204" duration="315000" />
+      <workItem from="1743449085290" duration="2000" />
+      <workItem from="1743618371129" duration="4349000" />
+      <workItem from="1743936126613" duration="561000" />
+      <workItem from="1744055874370" duration="1000" />
+      <workItem from="1744055945638" duration="535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

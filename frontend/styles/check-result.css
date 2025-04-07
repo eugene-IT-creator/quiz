@@ -1,0 +1,150 @@
+.check {
+    padding: 20px 0;
+}
+
+.check-pre-titles {
+    display: flex;
+    align-items: center;
+}
+
+.check-link-title {
+    color: #DCDCF3;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.check-pre-title {
+    margin-left: 15px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #6933DC;
+}
+
+.check-title {
+    margin: 60px 0;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+    font-size: 54px;
+    line-height: 64px;
+}
+
+.check-title span {
+    color: #6933DC;
+}
+
+.check-question {
+    margin-bottom: 60px;
+}
+
+.check-question-title {
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+    font-size: 36px;
+    line-height: 43px;
+    margin-bottom: 40px;
+}
+
+.check-question-title span {
+    color: #6933DC;
+}
+
+.whoDidThisTest {
+    font-family: "Museo Sans Cyrl", sans-serif;
+    font-size: 20px;
+}
+
+.check-question-options {
+     margin-top: 50px;
+}
+
+.check-question-option {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+/* INPUT CHECKBOX: RADIO */
+
+input[type="radio"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #6933DC;
+    border-radius: 50%;
+    margin: 0 13px 0 0;
+    transform: translateY(2px);
+
+    display: grid;
+    place-content: center;
+    cursor: unset;
+}
+
+input[type="radio"]::before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    box-shadow: inset 10px 10px #6933DC;
+    transition: .2s ease transform;
+    transform: scale(0);
+}
+
+input[type="radio"]:checked::before {
+    transform: scale(1);
+}
+
+.check-question-option label {
+    cursor: unset;
+}
+
+
+.check-back-to-result {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.check-back-to-result a {
+    font-size: 17px;
+    line-height: 20px;
+    color: #6933DC;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.check-back-to-result a:hover {
+    text-decoration: underline;
+}
+
+.check-back-to-result a img {
+    margin-left: 13px;
+}
+
+
+.option-answer {
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.check-right-answer {
+    color: #5FDC33;
+}
+
+.check-right-answer .option-answer {
+    border: 7px solid #5FDC33;
+}
+
+.check-wrong-answer {
+    color: #DC3333;
+}
+
+.check-wrong-answer .option-answer {
+    border: 7px solid #DC3333;
+}
+
+
+
+
+
+

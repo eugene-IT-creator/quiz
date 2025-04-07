@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "Alex",
+  "lastName": "Krotov",
+  "email": "bob@gmail.com",
+  "password": "$2b$10$34c2o8XD5EHrenfTMolCDuDi8K.mEz9Okkr7LKIp/2X54Nc1PhEM.",
+  "refreshToken": null
+}

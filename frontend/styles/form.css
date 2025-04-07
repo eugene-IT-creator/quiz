@@ -1,0 +1,94 @@
+.form {
+    padding: 140px 0 123px 0;
+}
+
+.form .container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.form-content {
+    max-width: 504px;
+}
+
+.form-details {
+    margin-top: 60px;
+    max-width: 485px;
+}
+
+/* FORM GROUP */
+.form-group {
+    background: white;
+    border: 1px solid #C1BBBB;
+    padding: 12px 23px 13px 23px;
+    width: 485px;
+    height: 74px;
+    box-sizing: border-box;
+    position: relative;
+    transition: .2s ease all;
+}
+
+.form-input {
+    border: 0;
+    outline: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #6933DC;
+}
+
+.form-label {
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    position: absolute;
+    left: 23px;
+    top: 26px;
+    transition: .2s ease all;
+}
+
+.form-input:focus ~ .form-label,
+.form-input:not(:focus):valid ~.form-label {
+    top: 12px;
+}
+
+.form-input:valid,
+.form-input:focus {
+    margin-top: 27px;
+    height: auto;
+}
+
+.form-group:focus-within {
+    border-left: 5px solid #6933DC;
+}
+
+.form-agree {
+    margin-top: 15px;
+    font-size: 12px;
+    line-height: 14px;
+    color: #333333;
+}
+
+.form-agree input {
+    top: 2px;
+    position: relative;
+}
+
+.form-agree input,
+.form-agree label {
+    cursor: pointer;
+}
+
+.form-button {
+    margin-top: 30px;
+}
+
+.form-link {
+    margin-top: 15px;
+    font-size: 12px;
+    line-height: 14px;
+}

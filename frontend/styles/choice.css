@@ -1,0 +1,70 @@
+.choice {
+    padding: 180px 0 227px 0;
+}
+
+.choice .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.choice-content {
+    max-width: 583px;
+}
+
+.choice-description {
+    margin-top: 40px;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.choice-options {
+    margin-top: 60px;
+    width: 588px;
+}
+
+.choice-option {
+    padding: 26px 70px 26px 40px;
+    background: white;
+    border: 1px solid #C1BBBB;
+    font-size: 18px;
+    line-height: 22px;
+    position: relative;
+    transition: .2s ease all;
+}
+
+.choice-option:hover {
+    border-left: 5px solid #6933DC;
+    cursor: pointer;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+}
+
+.choice-option-arrow {
+    position: absolute;
+    right: 40px;
+    top: 27px;
+    display: none;
+}
+
+.choice-option:hover .choice-option-arrow {
+    display: block;
+}
+
+/* МАЛЕНЬКИЙ БЛОК С РЕЗУЛЬТАТОМ ТЕСТА */
+.choice-option-result {
+    position: absolute;
+    z-index: 2;
+    right: 20px;
+    top: 16px;
+    border: 1px solid #6933DC;
+    padding: 5px;
+    font-size: 12px;
+    line-height: 14px;
+    color: #6933DC;
+    background: white;
+    text-align: center;
+}
+
+.choice-option-result div:first-child {
+    margin-bottom: 3px;
+}

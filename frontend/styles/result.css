@@ -1,0 +1,58 @@
+.result {
+    padding: 140px 0 91px 0;
+    text-align: center;
+}
+
+.result .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.result-image {
+    position: absolute;
+    top: 85px;
+    z-index: -1;
+}
+
+.result-title {
+    max-width: 588px;
+    margin-bottom: 60px;
+}
+
+.result-score {
+    background-image: url("/images/result-image.png");
+    background-size: cover;
+    background-position: center;
+    width: 480px;
+    height: 388px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 158px;
+    line-height: 190px;
+    color: white;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+}
+
+.result-check-answers {
+    cursor: pointer;
+    margin-top: 80px;
+    display: flex;
+    align-self: end;
+}
+
+.check-correct-answers {
+    cursor: pointer;
+    text-decoration: none;
+    color: #6933DC;
+    font-size: 17px;
+    line-height: 20px;
+    margin-right: 13px;
+}
+
+
+
+
+
